@@ -30,7 +30,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 // EN ➜ Add the language code which GataBot will use
 //  es = Español      id = Bahasa Indonesia       ar = عرب
 //  en = English      pt = Português 
-global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
+global.lenguajeGB = id  //<-- Predeterminado en idioma Español 
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
